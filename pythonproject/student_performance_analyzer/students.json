@@ -1,0 +1,37 @@
+[
+    {
+        "student_id": "11",
+        "name": "Adithya sagar",
+        "email": "adithyasagar@gmail.com",
+        "mobile": "9666818544",
+        "course": "python"
+    },
+    {
+        "student_id": "12",
+        "name": "Ravi",
+        "email": "Ravi23@gmail.com",
+        "mobile": "9645635472",
+        "course": "python"
+    },
+    {
+        "student_id": "13",
+        "name": "varun",
+        "email": "varun12@gmail.com",
+        "mobile": "9666453554",
+        "course": "python"
+    },
+    {
+        "student_id": "14",
+        "name": "naveen",
+        "email": "naveen34@gmail.com",
+        "mobile": "9640036195",
+        "course": "python"
+    },
+    {
+        "student_id": "15",
+        "name": "kiran",
+        "email": "saikiran2@gmail.com",
+        "mobile": "9758642551",
+        "course": "python"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "student_id": "11",
+        "subject": "Python",
+        "marks": 80.0
+    },
+    {
+        "student_id": "12",
+        "subject": "Python",
+        "marks": 75.0
+    },
+    {
+        "student_id": "13",
+        "subject": "Python",
+        "marks": 90.0
+    },
+    {
+        "student_id": "14",
+        "subject": "Python",
+        "marks": 92.0
+    },
+    {
+        "student_id": "15",
+        "subject": "Python",
+        "marks": 65.0
+    }
+]
